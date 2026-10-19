@@ -27,8 +27,5 @@ Then visit `http://localhost:8000`.
 - GitHub profile: https://github.com/Mohdashraf11
 - LinkedIn: https://www.linkedin.com/in/mohd-ashraf-71071a252/
 
-## Deploy
-
-Upload the contents of this folder to a static host such as GitHub Pages, Netlify, or Vercel. Keep `index.html`, `style.css`, `script.js`, and the `assets` folder together so the resume link works. No build command is required. If deploying at a repository subpath, use relative asset paths as included.
 
 The portfolio reflects the supplied resume: backend-focused Python/Django developer, Django REST Framework and REST APIs, PostgreSQL/MySQL/SQLite, Docker/Kubernetes and deployment tools, data-analysis libraries, Plasmid internship (Oct–Dec 2024), Bab Al Sabarr Transport production system, Meesaq Al Amanah live business website, Placement Cell Portal, and BCA from Integral University (2021–2024; CGPA 7.90, First Division with Honours).
