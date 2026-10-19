@@ -1,0 +1,9 @@
+{
+  "name": "mohammed-ashraf-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Responsive backend developer portfolio built with HTML, CSS, and vanilla JavaScript",
+  "scripts": {
+    "serve": "python -m http.server 8000"
+  }
+}
